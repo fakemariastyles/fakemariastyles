@@ -1,7 +1,4 @@
 # Hi 👋, I'm Mary Mirzaie
-A software engineer focused on all things UI
-
-![](https://github-profile-trophy.vercel.app/?username=marymirzaie)
 
 ### Contact me:
 
